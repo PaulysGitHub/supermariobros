@@ -8,6 +8,7 @@ namespace TestStuff
         {
             Console.WriteLine("asdfjasd;lkfj;aslkdjf");
             Console.WriteLine("abcdefghijklmnopqrstuvwxyz");
+            Console.WriteLine("Let's commit somemore");
         }
     }
 }
