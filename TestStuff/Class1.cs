@@ -9,7 +9,7 @@ namespace TestStuff
             Console.WriteLine("asdfjasd;lkfj;aslkdjf");
             Console.WriteLine("abcdefghijklmnopqrstuvwxyz");
             Console.WriteLine("Let's commit somemore");
-            Console.WriteLine("Let's compare stuff. ");
+            Console.WriteLine("Let's compare stuff.safasdfasdfasdf ");
         }
     }
 }
