@@ -6,7 +6,7 @@ namespace TestStuff
     {
         public Class1()
         {
-            // code clean-up.
+            // code clean-up
             Console.WriteLine("asdfjasd;lkfj;aslkdjf");
 
         }
